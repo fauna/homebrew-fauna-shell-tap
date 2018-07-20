@@ -3,9 +3,9 @@ require "language/node"
 class FaunaShell < Formula
   desc "Interactive shell for FaunaDB"
   homepage "https://fauna.com/"
-  url "https://registry.npmjs.org/fauna-shell/-/fauna-shell-0.2.1.tgz"
-  sha256 "3c78538d7a6bbbe509e75119001e76cb5dc50a5b2fa7337ea287c8cd42857742"
-  version "0.2.1"
+  url "https://registry.npmjs.org/fauna-shell/-/fauna-shell-0.2.2.tgz"
+  sha256 "c8e5f48b9dc1675d0c3a8db58426defd005f2de27de7b3c0aa8cc397fce54bd9"
+  version "0.2.2"
   
   depends_on "node"
 
